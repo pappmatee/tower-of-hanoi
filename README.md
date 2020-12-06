@@ -10,7 +10,5 @@ To represent the problem I used State-Space Representaion.
 Requires [Python](https://www.python.org) 3.x to run.
 
 ```sh
-$ python 3jugs.py
-$ python 3jugs_bt.py
-$ python 3jugs_breadthfirst.py
+$ python hanoi.py
 ```
